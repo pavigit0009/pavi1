@@ -13,5 +13,7 @@ public class J1 {
     		
     	}
     	System.out.println(fact);
+    	System.out.println(fact);
+    	System.out.println(fact);
    }
 }
